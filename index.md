@@ -1,4 +1,3 @@
-
 {
 "name": "ISRpool",
 "description": "WADA stakepool",
