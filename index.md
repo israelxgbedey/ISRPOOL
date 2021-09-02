@@ -1,15 +1,8 @@
-## Welcome to ISRpool
-
-
-
-```markdown
 
 {
-"name": "MyPoolName",
-"description": "My pool description",
+"name": "ISRpool",
+"description": "WADA stakepool",
 "ticker": "MPN",
-"homepage": "https://myadapoolnamerocks.com"
+"homepage": "https://git.io/JENtw"
 }
-
-```
 
